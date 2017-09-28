@@ -1,0 +1,140 @@
+<aura:component >
+    <div class="">
+        
+        <!-- Level 1 -->
+        <div class="l1">
+        	<ui:inputCheckbox />
+            Test Name Level 1
+            
+            <!-- Level 2 -->
+            <div class="l2">
+                <span class="dash">---</span><ui:inputCheckbox />
+                Test Name Level 2
+                
+                <!-- Level 3 -->
+                <div class="l3">
+                    <span class="dash">---</span><ui:inputCheckbox />
+                    Test Name Level 3
+                </div>
+                <div class="l3">
+                    <span class="dash">---</span><ui:inputCheckbox />
+                    Test Name Level 3
+                </div>
+                <div class="l3">
+                    <span class="dash">---</span><ui:inputCheckbox />
+                    Test Name Level 3
+                    
+                    <!-- Level 4 -->
+                    <div class="l4">
+                        <span class="dash">---</span><ui:inputCheckbox />
+                        Test Name Level 4
+                    </div>
+                    <div class="l4">
+                        <span class="dash">---</span><ui:inputCheckbox />
+                        Test Name Level 4
+                    </div>
+                    <div class="l4">
+                        <span class="dash">---</span><ui:inputCheckbox />
+                        Test Name Level 4
+                        
+                        <!-- Level 5 -->
+                        <div class="l4">
+                            <span class="dash">---</span><ui:inputCheckbox />
+                            Test Name Level 5
+                        </div>
+                        <div class="l4">
+                            <span class="dash">---</span><ui:inputCheckbox />
+                            Test Name Level 5
+                        </div>
+                        <div class="l4">
+                            <span class="dash">---</span><ui:inputCheckbox />
+                            Test Name Level 5
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Level 1 -->
+    	<div class="l1">
+        	<ui:inputCheckbox />
+            Test Name Level 1
+            
+            <!-- Level 2 -->
+            <div class="l2">
+                <span class="dash">---</span><ui:inputCheckbox />
+                Test Name Level 2
+            </div>
+        </div>
+        
+        <!-- Level 1 -->
+        <div class="l1">
+        	<ui:inputCheckbox />
+            Test Name Level 1
+        </div>
+        
+        <!-- Level 1 -->
+        <div class="l1">
+        	<ui:inputCheckbox />
+            Test Name Level 1
+            
+            <!-- Level 2 -->
+            <div class="l2">
+                <span class="dash">---</span><ui:inputCheckbox />
+                Test Name Level 2
+                
+                <!-- Level 3 -->
+                <div class="l3">
+                    <span class="dash">---</span><ui:inputCheckbox />
+                    Test Name Level 3
+                </div>
+                <div class="l3">
+                    <span class="dash">---</span><ui:inputCheckbox />
+                    Test Name Level 3
+                </div>
+                <div class="l3">
+                    <span class="dash">---</span><ui:inputCheckbox />
+                    Test Name Level 3
+                    
+                    <!-- Level 4 -->
+                    <div class="l4">
+                        <span class="dash">---</span><ui:inputCheckbox />
+                        Test Name Level 4
+                    </div>
+                    <div class="l4">
+                        <span class="dash">---</span><ui:inputCheckbox />
+                        Test Name Level 4
+                    </div>
+                    <div class="l4">
+                        <span class="dash">---</span><ui:inputCheckbox />
+                        Test Name Level 4
+                        
+                        <!-- Level 5 -->
+                        <div class="l4">
+                            <span class="dash">---</span><ui:inputCheckbox />
+                            Test Name Level 5
+                        </div>
+                        <div class="l4">
+                            <span class="dash">---</span><ui:inputCheckbox />
+                            Test Name Level 5
+                        </div>
+                        <div class="l4">
+                            <span class="dash">---</span><ui:inputCheckbox />
+                            Test Name Level 5
+                        </div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+        <!-- Level 1 -->
+        <div class="l1">
+        	<ui:inputCheckbox />
+            Test Name Level 1
+        </div>
+        
+        
+    </div>
+</aura:component>
